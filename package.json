@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "@types/get-pixels": "^3.3.2",
+    "@types/node": "^20.2.5",
     "@types/save-pixels": "^2.3.2",
     "typescript": "^5.1.3"
   },
