@@ -2,6 +2,11 @@
   "name": "extract-gif-frames-improved",
   "version": "0.1.0",
   "description": "Extract frames from a GIF to JPG/JPEG.",
+  "main": "dist/Index.js",
+  "types": "dist/Index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "ava Test.ts",
     "build": "rm -rf dist && tsc -p tsconfig.json"
