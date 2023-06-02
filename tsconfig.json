@@ -13,8 +13,6 @@
     "moduleResolution": "node",
     "allowUnusedLabels": false,
     "allowUnreachableCode": false,
-    "importsNotUsedAsValues": "error",
-    "ignoreDeprecations": "5.0",
     "strictPropertyInitialization": true,
     "strictBindCallApply": true,
     "declaration": true,
