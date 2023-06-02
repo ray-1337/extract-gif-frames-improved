@@ -1,0 +1,12 @@
+{
+  "name": "extract-gif-frames-improved",
+  "version": "0.1.0",
+  "description": "Extract frames from a GIF.",
+  "keywords": ["gif", "extract"],
+  "license": "MIT",
+  "author": {
+    "name": "Hizkia Ray",
+    "email": "personal@13373333.one",
+    "url": "https://13373333.one"
+  }
+}
