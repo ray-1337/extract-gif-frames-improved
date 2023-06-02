@@ -1,7 +1,7 @@
 {
   "name": "extract-gif-frames-improved",
   "version": "0.1.0",
-  "description": "Extract frames from a GIF.",
+  "description": "Extract frames from a GIF to JPG/JPEG.",
   "keywords": [
     "gif",
     "extract"
