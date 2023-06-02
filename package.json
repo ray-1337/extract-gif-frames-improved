@@ -2,11 +2,22 @@
   "name": "extract-gif-frames-improved",
   "version": "0.1.0",
   "description": "Extract frames from a GIF.",
-  "keywords": ["gif", "extract"],
+  "keywords": [
+    "gif",
+    "extract"
+  ],
   "license": "MIT",
   "author": {
     "name": "Hizkia Ray",
     "email": "personal@13373333.one",
     "url": "https://13373333.one"
+  },
+  "devDependencies": {
+    "@types/get-pixels": "^3.3.2",
+    "@types/save-pixels": "^2.3.2"
+  },
+  "dependencies": {
+    "get-pixels": "^3.3.3",
+    "save-pixels": "^2.3.6"
   }
 }
